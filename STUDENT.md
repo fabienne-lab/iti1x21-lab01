@@ -1,7 +1,7 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
-Course code: ITI1121
+Student name: Sawadogo Marie Fabienne
+Student number: 300101795
+Course code: ITI1125
 Lab: Lab01
 Course section: 02
 Java: 1.8
